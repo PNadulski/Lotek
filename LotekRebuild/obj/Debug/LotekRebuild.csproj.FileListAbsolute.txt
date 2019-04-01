@@ -1,0 +1,20 @@
+J:\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe.config
+J:\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe
+J:\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.pdb
+J:\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.exe
+J:\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.pdb
+J:\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\dl.txt
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe.config
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.exe
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.pdb
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\dl.txt
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.pdb
+C:\Users\FruGo\OneDrive\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\dl.txt
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe.config
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.exe
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\bin\Debug\LotekRebuild.pdb
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.exe
+C:\Users\Przemek\OneDrive\SQL 2019\CPłotek\LotekRebuild\LotekRebuild\obj\Debug\LotekRebuild.pdb
